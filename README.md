@@ -1,8 +1,8 @@
 # Railway-Reservation-System
 
-# Reg No:
-# Name:
-# Date:
+# Reg No: 212225040261
+# Name: Mugilarasi E
+# Date: 18/11/2026
 
 
 # AIM:
@@ -41,6 +41,7 @@ Specifying the context and requirements of a system
 
 
 
+<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/e57b7583-335b-433e-9bd4-0b9f74a995d7" />
 
 
 
@@ -59,6 +60,7 @@ Visually express any specific needs of a system and disseminate that information
 
 Create detailed charts that…
 
+<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/1fe18486-2592-48b0-9e74-ed32a75f6bd3" />
 
 
 # COMMUNICTION DIAGRAM:
@@ -68,6 +70,7 @@ A communication diagram offers the same information as a sequence diagram, but w
 Communication diagrams offer benefits similar to sequence diagrams, but they will offer a better understanding of how components communicate and interact with each other rather than solely emphasizing the sequence of events. They can be a useful reference for businesses, organizations, and engineers who need to visualize and understand the physical communications within a program. Try drawing a sequence diagram to:
 
 
+<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/7b361311-7706-4bca-be58-abd2c591de4a" />
 
 
 # PACKAGE DIAGRAM:
@@ -81,6 +84,7 @@ A well-designed package diagram provides numerous benefits to those looking to c
 
 
 
+<img width="1919" height="1076" alt="image" src="https://github.com/user-attachments/assets/0c9f21ff-f1c2-43b5-8b8b-2c92881b55c5" />
 
 
 
@@ -98,6 +102,7 @@ Demonstrate the logic of an algorithm.
 Describe the steps performed in a UML use case.
 
 
+<img width="1919" height="1078" alt="image" src="https://github.com/user-attachments/assets/08f3f3ad-f0ae-4c46-98a2-a0a6956dfe72" />
 
 
 
@@ -120,6 +125,7 @@ Plan and understand the detailed functionality of an existing or future scenario
 
 
 
+<img width="1919" height="1072" alt="image" src="https://github.com/user-attachments/assets/278aa454-706f-492f-a2b8-fb85405f1a5e" />
 
 
 
